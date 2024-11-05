@@ -110,11 +110,11 @@ The Mental Health Resource Finder provides an essential service by helping users
 
 The following areas present opportunities to expand and enhance the functionality of this project:
 
-	1.	**Expanded Data Sources:** Integrating additional data sources, such as regional or global mental health databases, can provide a more comprehensive list of resources and cover a broader range of services.
-	2.	**Automated Data Updates:** Implementing a system to periodically update resource data could ensure that information remains current, improving the reliability of recommendations.
-	3.	**Enhanced Filtering Options:** Allowing users to filter resources based on criteria such as insurance compatibility, cost, language preferences, and telehealth options could increase the relevance of recommendations.
-	4.	**User Feedback and Rating System:** Adding a feedback mechanism for users to rate and review resources could improve recommendation accuracy over time and provide valuable insights for other users.
-	5.	**Multilingual Support:** Expanding language support could make the tool accessible to a wider audience, offering recommendations in the user’s preferred language.
-	6.	**Mobile Application Development:** Creating a mobile app version would make the tool more accessible for users on the go, especially beneficial for those in remote areas with limited access to mental health services.
-	7.	**Risk Analysis Customization:** Adding user inputs for self-assessed mental health needs or linking to wearable data for a more personalized risk analysis could offer tailored recommendations that better align with each user’s mental health status.
-	8.	**Advanced AI Integration:** Integrating advanced AI models, such as sentiment analysis on user inputs, could refine the recommendation approach by assessing urgency or tone to better support those in crisis.
+	1.	Expanded Data Sources: Integrating additional data sources, such as regional or global mental health databases, can provide a more comprehensive list of resources and cover a broader range of services.
+	2.	Automated Data Updates: Implementing a system to periodically update resource data could ensure that information remains current, improving the reliability of recommendations.
+	3.	Enhanced Filtering Options: Allowing users to filter resources based on criteria such as insurance compatibility, cost, language preferences, and telehealth options could increase the relevance of recommendations.
+	4.	User Feedback and Rating System: Adding a feedback mechanism for users to rate and review resources could improve recommendation accuracy over time and provide valuable insights for other users.
+	5.	Multilingual Support:** Expanding language support could make the tool accessible to a wider audience, offering recommendations in the user’s preferred language.
+	6.	Mobile Application Development: Creating a mobile app version would make the tool more accessible for users on the go, especially beneficial for those in remote areas with limited access to mental health services.
+	7.	Risk Analysis Customization: Adding user inputs for self-assessed mental health needs or linking to wearable data for a more personalized risk analysis could offer tailored recommendations that better align with each user’s mental health status.
+	8.	Advanced AI Integration: Integrating advanced AI models, such as sentiment analysis on user inputs, could refine the recommendation approach by assessing urgency or tone to better support those in crisis.
