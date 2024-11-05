@@ -49,7 +49,7 @@ The application expects a CSV file named `merged_data_with_resources.csv` with t
 
 2. **Install Dependencies**
    ```bash
-   pip install dependencies
+   pip install openai pandas python-dotenv
    ```
 
 3. **Set Up Environment Variables**  
